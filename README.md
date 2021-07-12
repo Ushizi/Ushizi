@@ -1,0 +1,3 @@
+- Hi, I’m @Ushizi
+- I’m interested in programming (of course), gaming, and travelling, just to name a few.
+- I’m currently learning Linux and C#
